@@ -56,7 +56,7 @@ Each architecture includes both **Python scripts (.py)** and **Jupyter notebooks
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/AjaoFaisal/classic-cnn-architectures.git
+git clone https://github.com/faisal-ajao/classic-cnn-architectures.git
 cd classic-cnn-architectures
 ```
 
