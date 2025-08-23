@@ -1,6 +1,6 @@
 # Classic CNN Architectures in Keras 📚🤖
 
-This repository contains implementations of several **classic convolutional neural network (CNN) architectures** in Keras and Python.  
+This repository contains implementations of several **classic convolutional neural network (CNN) architectures** in Tensorflow/Keras and Python.  
 It serves as a **portfolio project** for demonstrating understanding of deep learning, CNN design, and modern computer vision workflows.
 
 Each architecture includes both **Python scripts (.py)** and **Jupyter notebooks (.ipynb)** for easy experimentation and learning.
